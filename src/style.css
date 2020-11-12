@@ -1,0 +1,14 @@
+@font-face{
+    font-family: 'Alibaba-PuHuiTi-Medium';
+    src: url('./Alibaba-PuHuiTi-Medium.otf') format('otf');
+    font-style: normal;
+}
+.hello{
+    color: red;
+    background-image: url('./1.jpg');
+    font-family: 'Alibaba-PuHuiTi-Medium';
+}
+.imageStyle{
+    width: 100px;
+    height: 100px;
+}
