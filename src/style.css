@@ -3,9 +3,12 @@
     src: url('./Alibaba-PuHuiTi-Medium.otf') format('otf');
     font-style: normal;
 }
+body{
+    background-color: yellowgreen;
+}
 .hello{
     color: red;
-    background-image: url('./1.jpg');
+    background-image: url('./1.jpg'); 
     font-family: 'Alibaba-PuHuiTi-Medium';
 }
 .imageStyle{
